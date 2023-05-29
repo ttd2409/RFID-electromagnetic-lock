@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=STM32_TX2 Pin=Debug1-1
+Removed Pin From Net: NetName=STM32_RX2 Pin=Debug1-2
+Added Pin To Net: NetName=STM32_RX2 Pin=Debug1-1
+Added Pin To Net: NetName=STM32_TX2 Pin=Debug1-2

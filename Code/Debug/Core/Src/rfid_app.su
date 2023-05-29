@@ -1,0 +1,3 @@
+../Core/Src/rfid_app.c:19:9:hex_to_char	24	static
+../Core/Src/rfid_app.c:30:6:char_to_hex	32	static
+../Core/Src/rfid_app.c:44:6:read_rfid	16	static

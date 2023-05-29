@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=Debug Old Footprint=XH_3 New Footprint=HDR_M_1X3
+Change Component Designator: OldDesignator=COI NewDesignator=OUT2
+Change Component Designator: OldDesignator=KHOA NewDesignator=OUT1
+Change Component Designator: OldDesignator=LED C NewDesignator=led2
+Change Component Designator: OldDesignator=LED K NewDesignator=led1
+Change Class Name : Old Net Name=Sheet1 New Net Name=SmartDoor
+Added Room: Name=SmartDoor

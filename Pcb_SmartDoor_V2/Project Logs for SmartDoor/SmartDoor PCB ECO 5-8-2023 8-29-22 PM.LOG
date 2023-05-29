@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=RC522_RST Pin=U6-29
+Added Pin To Net: NetName=RC522_SCK Pin=U6-30
+Added Pin To Net: NetName=RC522_MISO Pin=U6-31
+Added Pin To Net: NetName=RC522_MOSI Pin=U6-32
+Added Pin To Net: NetName=RC522_SS Pin=U6-33

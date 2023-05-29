@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=STM32_TX2 Pin=U6-27
+Removed Pin From Net: NetName=STM32_RX2 Pin=U6-28
+Added Component: Designator=SW2(SW2_DIP)
+Add component (AddParameter): Name = "ComponentLink1 Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2 Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/4181271609xx.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created by"; Value = "Baojun Chen"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created Date"; Value = "Dec.2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part No."; Value = "418127160902"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pole"; Value = "02"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=STM32_TX2 Pin=SW2-1
+Added Pin To Net: NetName=STM32_RX2 Pin=SW2-2
+Added Pin To Net: NetName=NetSW2_3 Pin=SW2-3
+Added Pin To Net: NetName=NetSW2_3 Pin=U6-28
+Added Net: Name=NetSW2_3
+Added Pin To Net: NetName=NetSW2_4 Pin=SW2-4
+Added Pin To Net: NetName=NetSW2_4 Pin=U6-27
+Added Net: Name=NetSW2_4
+Added Member To Class: ClassName=SmartDoor Member=Component SW2

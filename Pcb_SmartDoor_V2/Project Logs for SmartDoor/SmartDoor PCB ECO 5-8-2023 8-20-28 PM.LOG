@@ -1,0 +1,11 @@
+Added Component: Designator=Q3(TO-92B)
+Added Component: Designator=Q4(TO-92B)
+Added Pin To Net: NetName=GND Pin=Q3-1
+Added Pin To Net: NetName=NetD5_1 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=GND Pin=Q4-1
+Added Pin To Net: NetName=NetD6_1 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Member To Class: ClassName=SmartDoor Member=Component Q3 C1815
+Added Member To Class: ClassName=SmartDoor Member=Component Q4 C1815
+Added Member To Class: ClassName=SmartDoor Member=Component U1 LM2576 5v
